@@ -6,7 +6,7 @@ etc...
 
 🔭 I’m currently working as a ML Platform Engineer. I'm implementing frontend/backend of the platform and writing/monitoring ML pipelines.
 <br><br>
-🌱 I’m interested in Software Engineering, API/Backend development, Pipeline Orchestration, MLOps, Distributed Systems, and Databases.
+🌱 I’m interested in Software Engineering, API/Backend development, Data Engineering, Pipeline Orchestration, MLOps, Distributed Systems, and Databases.
 
 <!--
 **Tolga-Karahan/Tolga-Karahan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
