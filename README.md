@@ -1,6 +1,6 @@
 ### Hi there I'm Tolga 👋. 
 
-I've been working in the industry for four years in tasks such as ML modeling, putting ML models into production, 
+I've been working in the industry for four and a half years in tasks such as ML modeling, putting ML models into production, 
 backend/api development, implementation of database procedures, implementation of pipelines,  implementation of k8s configurations, Helm charts, and Ansible scripts,
 etc...
 
