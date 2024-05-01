@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 
 <tr>
   <td align="center" width="20%">
-    <img height=80px src="https://pydantic.dev/imgs/social.png"> 
+    <img height=80px src="https://repository-images.githubusercontent.com/90194616/6d31d0d9-6770-4cbc-90d5-a611662126ee"> 
   </td>
 
   <td align="center" width="20%">
