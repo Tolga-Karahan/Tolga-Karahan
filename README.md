@@ -1,8 +1,6 @@
 ### Hi there I'm Tolga 👋. 
 
-I've been working in the industry for five years in tasks such as ML modeling, putting ML models into production, 
-backend/api development, implementation of database procedures, implementation of pipelines,  implementation of k8s configurations, Helm charts, and Ansible scripts,
-etc...
+I have five years of experience in the industry, working on tasks such as machine learning modeling, deploying ML models to production, backend and API development, implementing database procedures and data pipelines, as well as configuring Kubernetes setups, Helm charts, and Ansible scripts, among others.
 
 🔭 I’m currently working as a ML Platform Engineer. I'm implementing frontend/backend of the platform and writing/monitoring ML pipelines.
 <br><br>
