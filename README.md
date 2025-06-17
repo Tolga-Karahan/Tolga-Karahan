@@ -32,19 +32,19 @@ Here are some ideas to get you started:
   </td>
   
   <td align="center" width="20%">
-    <img height=80px src="https://miro.medium.com/v2/resize:fit:1400/1*Ifpd_HtDiK9u6h68SZgNuA.png"> 
+    <img height=80px src="https://www.tenfold-security.com/wp-content/uploads/sql.svg"> 
   </td>
   
   <td align="center" width="20%">
-    <img height=90px src="https://cloud2data.com/wp-content/uploads/2023/01/HTML-CSS-Review.png"> 
+    <img height=80px src="https://www.zdnet.com/a/img/resize/e7aff3398e12f0fa70fd66238d743054c4c8b95e/2018/04/19/092cbf81-acac-4f3a-91a1-5a26abc1721f/postgresql-logo.png?auto=webp&fit=crop&height=900&width=1200"> 
   </td>
   
   <td align="center" width="20%">
-    <img height=65px src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png"> 
+    <img height=80px src="https://datascientest.com/en/files/2021/08/illu_apache_spark-28.png"> 
   </td>
   
   <td align="center" width="20%">
-    <img height=80px src="https://hakin9.org/wp-content/uploads/2019/08/connect-a-flask-app-to-a-mysql-database-with-sqlalchemy-and-pymysql.jpg"> 
+    <img height=80px src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png"> 
   </td>
 
 </tr>
@@ -67,7 +67,7 @@ Here are some ideas to get you started:
   </td>
 
   <td align="center" width="20%">
-    <img height=80px src="https://www.tenfold-security.com/wp-content/uploads/sql.svg"> 
+    <img height=80px src="https://garethdjones.com/assets/images/posts/clickhouse/ch-logo.gif"> 
   </td>
   
 </tr>
@@ -83,11 +83,11 @@ Here are some ideas to get you started:
   </td>
   
   <td align="center" width="20%">
-    <img height=80px src="https://storage.googleapis.com/blogs-images/ciscoblogs/1/2020/03/c0a08b4a-kubeflow-logo.png"> 
+    <img height=80px src=https://miro.medium.com/v2/resize:fit:1056/0*5Hubk4Nwe7BdQS2D> 
   </td>
 
   <td align="center" width="20%">
-    <img height=80px src="https://raw.githubusercontent.com/mlflow/mlflow/master/docs/source/_static/MLflow-logo-final-black.png"> 
+    <img height=80px src=https://data.it-novum.com/wp-content/uploads/2021/02/apache_kafka_logo-1200x547.png> 
   </td>
 
   <td align="center" width="20%">
@@ -115,7 +115,7 @@ Here are some ideas to get you started:
   </td>
 
   <td align="center" width="20%">
-    <img height=90px src="https://www.freecodecamp.org/news/content/images/2021/09/ansble.png"> 
+    <img height=90px src=https://miro.medium.com/v2/resize:fit:800/1*F2BHs6p9erpiGKro5Pg1uQ.png> 
   </td>
   
 </tr>
